@@ -6,7 +6,7 @@
 ##   Information on the current version of ZSG
 
  
-<center><b>Zombie Survival Game<br></center>
+<center><b>&nbsp&nbsp&nbspZombie Survival Game<br></center>
 <img src="https://i.pinimg.com/originals/69/2d/e0/692de06a73666b614d3319f206f51d9b.gif" alt="Girl in a jacket" width="200" height="50"></center><br>
 <a href="https://drive.google.com/file/d/1OzNoghzanHl6yn1rlJ4DAf3Ksxwg5qtE/view?usp=sharing"> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dowloand </a>
   
